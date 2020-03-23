@@ -1,0 +1,34 @@
+.footer{
+  background-color: #d4d7dd;
+  height: 200px;
+}
+
+.footer-introduce{
+  display: flex;
+  color:white;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 32px;
+  text-shadow: 2px 2px 8px #687466;
+  justify-content: center;
+}
+
+.fas {
+  margin-left: 16px;
+}
+
+.footer-links{
+  display: flex;
+  justify-content: center;
+ }
+
+.footer-links a{
+  color:white;
+  font-size: 32px;
+  padding: 8px;
+}
+
+.footer-links a:hover{
+  color: #596157;
+  opacity: 0.3;
+}

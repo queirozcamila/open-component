@@ -1,0 +1,30 @@
+.banner {
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  display: flex;
+}
+
+  .banner img {
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    margin-left: 60px;
+  }
+
+  .banner-info{
+    margin-left: 150px;
+    font-size: 16px;
+  }
+
+  .banner-info h2{
+    font-size: 36px;
+    font-family: 'Playfair Display', serif;
+  }
+
+  .banner-info p{
+    color:#687466;
+    font-size: 18px;
+    text-shadow: 2px 2px 4px #d4d7dd;
+  }
+

@@ -1,0 +1,35 @@
+.navlist{
+  background-color: #d4d7dd;
+  height: 100px;
+}
+
+.linklist{
+  display: flex;
+  height: 40px;
+  margin: auto 100px;
+  justify-content: space-around;
+  list-style-type: none;
+  /*align-items: center;*/
+
+}
+
+.list-icon{
+  color: white;
+  font-weight: bold;
+  font-size: 28px;
+  padding: 32px;
+  text-shadow: 2px 2px 8px #687466;
+
+}
+
+
+/*.navbar-lewagon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  box-shadow: 5px 0 10px rgba(0,0,0,0.15);
+}
+.navbar-lewagon img {
+  width: 50px;
+}*/
